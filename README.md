@@ -1,20 +1,81 @@
-👋 Hi, I'm Dhwani Kariya
+# Dhwani Kariya
 
-🎓 I'm currently pursuing an MSc in Artificial Intelligence for Business at the National College of Ireland (Dublin).
+**AI & Data Professional** — MSc AI for Business @ NCI Dublin | ex-SAP Labs (2 yrs)
 
-🧠 Background:
-- 2 years of industry experience at SAP Labs as a QA & automation engineer
-- Hands-on with Python, APIs, backend testing, Postman, and data analytics
-- Past work in GenAI automation tools, real-time systems, and applied AI projects
+I build data-driven solutions at the intersection of AI, automation, and business impact. At SAP Labs I shipped a GenAI automation tool that cut manual effort by 60%. Now at NCI Dublin I'm applying that experience to real-world AI product and analytics problems.
 
-🚀 My Goals:
-- Build public projects that apply automation, data, and product thinking
-- Collaborate on meaningful open-source work
-- Break into AI/product/engineering roles in Ireland
+Open to **Data Analyst / AI Analyst / Associate PM** roles in Dublin from May 2026.
+Stamp 1G eligible from October 2026 — no work permit required.
 
-📌 Projects in Progress:
-- "genai-automation-tool" – a workflow optimizer (inspired by my SAP Labs project)
-- "api-tester-lite" – a Python/Postman-inspired mini API tester
-- "fall-detection-prototype" – early work from CitiUpstart Accelerator (planned open repo)
+---
 
-📫 Find me on [LinkedIn](https://www.linkedin.com/in/dhwani-kariya-720350175/)
+## Tech Stack
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+
+**Data & AI**
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
+
+**Tools & Platforms**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=flat&logo=jira&logoColor=white)
+
+---
+
+## Featured Projects
+
+### SupaMates AI — Supermacs Loyalty Intelligence
+> Ireland's biggest homegrown fast food chain has 320k weekly customers and zero loyalty profiles. This is the data layer they're missing.
+
+Customer segmentation quiz, loyalty tier dashboard, and AI personalisation concept — built as an end-to-end product prototype.
+
+**Stack:** HTML, CSS, JavaScript · [Live Demo](https://dhwanikariya.github.io/supamatesai/) · [Repo](https://github.com/DhwaniKariya/supamatesai)
+
+---
+
+### Beyond Likes and Shares — Textual DNA of Viral Posts
+> Can text-based features predict whether a post goes viral?
+
+NLP pipeline combining Reddit and Twitter datasets. Feature engineering (VADER sentiment, TF-IDF, hashtag/mention patterns), Logistic Regression and Random Forest classifiers, RapidMiner visual pipeline.
+
+**Stack:** Python · pandas · scikit-learn · NLTK · RapidMiner · [Repo](https://github.com/DhwaniKariya/beyond-likes-and-shares-textual-dna-of-viral-posts)
+
+---
+
+### API Tester Lite
+> A lightweight CLI tool for REST API testing — built for daily use during backend validation at SAP Labs.
+
+Supports GET / POST / PUT / PATCH / DELETE, custom headers, JSON bodies, colour-coded status codes, response timing, and save-to-file.
+
+**Stack:** Python · requests · [Repo](https://github.com/DhwaniKariya/API_tester_lite)
+
+---
+
+## Highlights
+
+- Built a **GenAI automation tool at SAP Labs** — reduced manual operational effort by 60% across enterprise workflows
+- Selected for **CitiUpstart Entrepreneurship Accelerator** (2025) — one of Ireland's leading startup programmes; currently Data Product Lead on an AI-powered care platform
+- Awarded **Erasmus+ BIP grant** (2026) — chosen to represent NCI Dublin at an international AI programme in Toulouse, France
+- **B.Tech project funded by the Government of India** (CWPRS); research presented at the 66th Annual IETE Convention (AIC-2023)
+
+---
+
+## Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/dhwani-kariya-720350175)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:dhwanikariya19@gmail.com)
