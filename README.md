@@ -37,35 +37,6 @@ Stamp 1G eligible from October 2026 — no work permit required.
 
 ---
 
-## Featured Projects
-
-### SupaMates AI — Supermacs Loyalty Intelligence
-> Ireland's biggest homegrown fast food chain has 320k weekly customers and zero loyalty profiles. This is the data layer they're missing.
-
-Customer segmentation quiz, loyalty tier dashboard, and AI personalisation concept — built as an end-to-end product prototype.
-
-**Stack:** HTML, CSS, JavaScript · [Live Demo](https://dhwanikariya.github.io/supamatesai/) · [Repo](https://github.com/DhwaniKariya/supamatesai)
-
----
-
-### Beyond Likes and Shares — Textual DNA of Viral Posts
-> Can text-based features predict whether a post goes viral?
-
-NLP pipeline combining Reddit and Twitter datasets. Feature engineering (VADER sentiment, TF-IDF, hashtag/mention patterns), Logistic Regression and Random Forest classifiers, RapidMiner visual pipeline.
-
-**Stack:** Python · pandas · scikit-learn · NLTK · RapidMiner · [Repo](https://github.com/DhwaniKariya/beyond-likes-and-shares-textual-dna-of-viral-posts)
-
----
-
-### API Tester Lite
-> A lightweight CLI tool for REST API testing — built for daily use during backend validation at SAP Labs.
-
-Supports GET / POST / PUT / PATCH / DELETE, custom headers, JSON bodies, colour-coded status codes, response timing, and save-to-file.
-
-**Stack:** Python · requests · [Repo](https://github.com/DhwaniKariya/API_tester_lite)
-
----
-
 ## Highlights
 
 - Built a **GenAI automation tool at SAP Labs** — reduced manual operational effort by 60% across enterprise workflows
