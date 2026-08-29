@@ -1,8 +1,8 @@
 # Dhwani Kariya
 
-**AI & Data Professional** — MSc AI for Business @ NCI Dublin | ex-SAP Labs (2 yrs)
+**AI & Data Professional** - MSc AI for Business @ NCI Dublin | ex-SAP Labs (2 yrs)
 
-I build data-driven solutions at the intersection of AI, automation, and business impact. At SAP Labs I shipped a GenAI automation tool that cut manual effort by 60%. Now at NCI Dublin I'm applying that experience to real-world AI product and analytics problems.
+I build data-driven solutions at the intersection of AI, automation, and business impact. At SAP Labs, I shipped a GenAI automation tool that cut manual effort by 60%. Now at NCI Dublin, I'm applying that experience to real-world AI product and analytics problems.
 
 Open to **Data Analyst / AI Analyst / Associate PM** roles in Dublin from May 2026.
 Stamp 1G eligible from October 2026 — no work permit required.
