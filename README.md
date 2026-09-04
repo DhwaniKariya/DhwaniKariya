@@ -11,7 +11,7 @@ Eligible for full-time work on Stamp 1G from October 2026.
 
 ## Currently building
 
-**[LLM Reliability Leaderboard](https://github.com/DhwaniKariya/llm-reliability-leaderboard)** — testing how Claude, GPT and Gemini actually answer real health questions, checked against verified CDC/NIH/Mayo Clinic sources instead of just trusting the model. Responses get hand-scored blind (model identity hidden until scoring is done) on accuracy, citation faithfulness, and hedging, with a second-pass reliability check before any stats get reported. Built end to end: dataset construction, a resumable multi-provider API pipeline, and now the scoring layer. Work in progress, pushed most days.
+**[LLM Reliability Leaderboard](https://github.com/DhwaniKariya/llm-reliability-leaderboard)** - testing how Claude, GPT and Gemini actually answer real health questions, checked against verified CDC/NIH/Mayo Clinic sources instead of just trusting the model. Responses get hand-scored blind (model identity hidden until scoring is done) on accuracy, citation faithfulness, and hedging, with a second-pass reliability check before any stats get reported. Built end to end: dataset construction, a resumable multi-provider API pipeline, and now the scoring layer. Work in progress, pushed most days.
 
 ---
 
@@ -45,9 +45,9 @@ Eligible for full-time work on Stamp 1G from October 2026.
 
 ## Highlights
 
-- Built a **GenAI automation tool at SAP Labs** — reduced manual operational effort by 60% across enterprise workflows
-- Selected for **CitiUpstart Entrepreneurship Accelerator** (2025) — one of Ireland's leading startup programmes; currently Data Product Lead on an AI-powered care platform
-- Awarded **Erasmus+ BIP grant** (2026) — chosen to represent NCI Dublin at an international AI programme in Toulouse, France
+- Built a **GenAI automation tool at SAP Labs** - reduced manual operational effort by 60% across enterprise workflows
+- Selected for **CitiUpstart Entrepreneurship Accelerator** (2025) - one of Ireland's leading startup programmes; currently Data Product Lead on an AI-powered care platform
+- Awarded **Erasmus+ BIP grant** (2026) - chosen to represent NCI Dublin at an international AI programme in Toulouse, France
 - **B.Tech project funded by the Government of India** (CWPRS); research presented at the 66th Annual IETE Convention (AIC-2023)
 
 ---
