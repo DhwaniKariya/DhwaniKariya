@@ -4,8 +4,14 @@
 
 I build data-driven solutions at the intersection of AI, automation, and business impact. At SAP Labs, I shipped a GenAI automation tool that cut manual effort by 60%. Now at NCI Dublin, I'm applying that experience to real-world AI product and analytics problems.
 
-Open to **Data Analyst / AI Analyst / Associate PM** roles in Dublin from May 2026.
-Stamp 1G eligible from October 2026 — no work permit required.
+Open to **Data Analyst / AI Analyst / Associate PM** roles in Dublin.
+Eligible for full-time work on Stamp 1G from October 2026.
+
+---
+
+## Currently building
+
+**[LLM Reliability Leaderboard](https://github.com/DhwaniKariya/llm-reliability-leaderboard)** — testing how Claude, GPT and Gemini actually answer real health questions, checked against verified CDC/NIH/Mayo Clinic sources instead of just trusting the model. Responses get hand-scored blind (model identity hidden until scoring is done) on accuracy, citation faithfulness, and hedging, with a second-pass reliability check before any stats get reported. Built end to end: dataset construction, a resumable multi-provider API pipeline, and now the scoring layer. Work in progress, pushed most days.
 
 ---
 
