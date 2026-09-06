@@ -4,7 +4,7 @@
 
 I build data-driven solutions at the intersection of AI, automation, and business impact. At SAP Labs, I shipped a GenAI automation tool that cut manual effort by 60%. Now at NCI Dublin, I'm applying that experience to real-world AI product and analytics problems.
 
-Open to **Data Analyst / AI Analyst / Associate PM** roles in Dublin.
+Open to **Data Analyst / AI Analyst / QA / Associate PM** roles in Dublin.
 Eligible for full-time work on Stamp 1G from October 2026.
 
 ---
